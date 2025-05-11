@@ -69,10 +69,6 @@ console.log("Let's commit to helping the world become a better place!");
   <a href="https://malavikam20.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=malavikam20&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
-</p>
-
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
   <p align="center">
