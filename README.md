@@ -7,8 +7,6 @@
 
 <p>I'm a passionate software developer with expertise in building innovative applications and AI-driven solutions. I blend creativity with technical excellence to create impactful digital experiences.</p>
 
-<img align="right" width="180px" src="https://i.postimg.cc/wMSVkYxZ/profile-placeholder.png">
-
 ## About Me
 - 🚀 Full Stack Developer with expertise in React, Next.js, and Flutter
 - 💻 Currently pursuing B.Tech in Computer Science (2025) at VIT, Vellore
@@ -60,9 +58,9 @@ console.log("Let's create something amazing together!");
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malavikam20&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## Achievements
-- 🥈 2nd Prize in CodeChef Code Race among 347 participants
 - 🏆 1st Position at College Level in CodeChef National Competition 
 - 🥇 1st Prize in Hackerrank Code-A-Thon among 128 participants
+- 🥈 2nd Prize in CodeChef Code Race among 347 participants
 
 ## Connect With Me
 <p align="left">
