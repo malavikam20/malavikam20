@@ -72,7 +72,6 @@ Cross-platform mobile app using **React + Redux, Tailwind CSS, Node, PostgreSQL,
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malavikam20&show_icons=true&theme=tokyonight" width="420"/>
   <img src="https://streak-stats.demolab.com?user=malavikam20&theme=tokyonight" width="420"/>
 </p>
 
