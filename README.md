@@ -66,45 +66,70 @@
 
 ---
 
-<div class="skillsContainer">
-  <ul class="skillsGrid">
-    
-    <!-- Frontend Technologies -->
-    <li class="item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML"><p>HTML</p></li>
-    <li class="item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS"><p>CSS</p></li>
-    <li class="item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"><p>JavaScript</p></li>
-    <li class="item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React"><p>React</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="AngularJS"><p>AngularJS</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"><p>Bootstrap</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="Sass"><p>Sass</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind"><p>Tailwind</p></li>
-    <li class="item"><img src="https://mui.com/static/logo.png" alt="Material UI"><p>Material UI</p></li>
-    
-    <!-- Backend & Dev -->
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js"><p>Node.js</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="Express"><p>Express</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB"><p>MongoDB</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"><p>PostgreSQL</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" alt="Redis"><p>Redis</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker"><p>Docker</p></li>
+## 🌟 Tech Stack
 
-    <!-- Cloud & Infra -->
-    <li class="item"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS"><p>AWS</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="GCP"><p>Google Cloud</p></li>
+Here’s a glimpse of my **Tech Stack**! I work with various technologies, ranging from **Frontend**, **Backend**, **DevOps**, and **AI** tools. Here's a dynamic list of the technologies I work with:
 
-    <!-- Tools -->
-    <li class="item"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git"><p>Git</p></li>
-    <li class="item"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"><p>Postman</p></li>
+### 🚀 Frontend
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React**
+- **AngularJS**
+- **Bootstrap**
+- **Sass**
+- **Tailwind CSS**
+- **Material UI**
+- **Next.js**
+- **Vite**
 
-    <!-- ML & Data Science -->
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow"><p>TensorFlow</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn"><p>Scikit-learn</p></li>
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"><p>Matplotlib</p></li>
-    
-    <!-- Mobile Development -->
-    <li class="item"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter"><p>Flutter</p></li>
-  </ul>
-</div>
+### 💻 Backend
+- **Node.js**
+- **Express.js**
+- **NestJS**
+- **MongoDB**
+- **PostgreSQL**
+- **MySQL**
+- **Redis**
+- **Firebase**
+- **Docker**
+- **Git**
+- **Postman**
+
+### ☁️ Cloud & Infrastructure
+- **AWS**
+- **Google Cloud**
+
+### ⚙️ Tools & Others
+- **Bash**
+- **VS Code**
+- **Babel**
+- **Notion**
+
+### 🔧 Programming Languages
+- **C**
+- **C++**
+- **Java**
+- **Python**
+- **TypeScript**
+
+### 🤖 ML & Data Science
+- **Jupyter**
+- **Keras**
+- **TensorFlow**
+- **Scikit-learn**
+- **Matplotlib**
+- **Streamlit**
+
+### 🌍 CMS & 3D
+- **Sanity**
+- **Three.js**
+
+### 📱 Mobile Development
+- **Flutter**
+
+### 🎮 Miscellaneous
+- **jQuery**
 
 ---
 
