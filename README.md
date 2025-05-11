@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Malavika M</h1>
+<h1 align="center">Hello Mello 🙋🏻‍♀️, I'm Malavika M</h1>
 <p align="center">
   <em>Full Stack Engineer 🚀 | Flutter + React Magician 🎨 | AI Explorer 🤖 | Hackathon Winner 🏆</em>
 </p>
