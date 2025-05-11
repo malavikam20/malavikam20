@@ -9,10 +9,10 @@
 
 ## About Me
 - 🚀 Full Stack Developer with expertise in React, Next.js, and Flutter
-- 💻 Currently pursuing B.Tech in Computer Science (2025) at VIT, Vellore
+- 💻 Graduated B.Tech in Computer Science (2025) at VIT, Vellore
 - 🌟 Skilled in building AI-powered applications and responsive interfaces
 - 🏆 Competitive programmer with multiple contest wins
-- 📱 Experienced in cross-platform mobile development
+- 📱 Experienced in cross-platform web and mobile development
 - 🔗 Portfolio: [malavikam20.github.io](https://malavikam20.github.io)
 
 ## My Tech Universe
@@ -20,7 +20,7 @@
 ```javascript
 const malavika = {
   code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Dart", "Swift"],
-  focus: ["full-stack development", "AI applications", "mobile development"],
+  focus: ["Full-stack development", "AI applications", "Mobile and Web development"],
   technologies: {
     frontend: ["React", "Next.js", "Tailwind CSS", "Shadcn UI", "HTML/CSS"],
     backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
@@ -29,18 +29,13 @@ const malavika = {
     cloud: ["AWS", "Azure", "Vercel", "Netlify"],
     tools: ["Git", "Docker", "Kubernetes", "Jira", "Postman"]
   },
-  currentFocus: "Building intelligent applications that solve real-world problems"
+  currentFocus: "Building intelligent applications that can solve real-world problems"
 };
 
-console.log("Let's create something amazing together!");
+console.log("Let's commit to helping the world become a better place!");
 ```
 
 ## Featured Projects
-
-### 🌦️ Weather Forecasting App
-- Cross-platform app with Flutter and Dart
-- Multi-layered weather visualization
-- Serving 1,000+ active users
 
 ### 🤖 AI Content Generator
 - Full-stack application with React, Next.js, and PostgreSQL
@@ -51,6 +46,11 @@ console.log("Let's create something amazing together!");
 - Interactive travel planning with React.js and Tailwind CSS
 - Google Maps & Places API integration
 - Personalized itinerary creation based on user preferences
+
+### 🌦️ Weather Forecasting App
+- Cross-platform app with Flutter and Dart
+- Multi-layered weather visualization
+- Serving 100+ active users
 
 ## GitHub Stats
 
