@@ -1,160 +1,85 @@
-<h1 align="center">Hello Mello 🙋🏻‍♀️, I'm Malavika M</h1>
 <p align="center">
-  <em>Full Stack Engineer 🚀 | Flutter + React Magician 🎨 | AI Explorer 🤖 | Hackathon Winner 🏆</em>
+  <h1 align="center">Welcome to my Github profile!😃✋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=Fira+Code&color=F75C7E&size=25&lines=Full+Stack+Developer;Mobile+App+Engineer;AI+Enthusiast;Problem+Solver" /></a>
+</p>
+
+<p>I'm a passionate software developer with expertise in building innovative applications and AI-driven solutions. I blend creativity with technical excellence to create impactful digital experiences.</p>
+
+<img align="right" width="180px" src="https://i.postimg.cc/wMSVkYxZ/profile-placeholder.png">
+
+## About Me
+- 🚀 Full Stack Developer with expertise in React, Next.js, and Flutter
+- 💻 Currently pursuing B.Tech in Computer Science (2025) at VIT, Vellore
+- 🌟 Skilled in building AI-powered applications and responsive interfaces
+- 🏆 Competitive programmer with multiple contest wins
+- 📱 Experienced in cross-platform mobile development
+- 🔗 Portfolio: [malavikam20.github.io](https://malavikam20.github.io)
+
+## My Tech Universe
+
+```javascript
+const malavika = {
+  code: ["JavaScript", "TypeScript", "Python", "Java", "C++", "Dart", "Swift"],
+  focus: ["full-stack development", "AI applications", "mobile development"],
+  technologies: {
+    frontend: ["React", "Next.js", "Tailwind CSS", "Shadcn UI", "HTML/CSS"],
+    backend: ["Node.js", "Express", "REST APIs", "GraphQL"],
+    mobile: ["Flutter", "Kotlin", "React Native"],
+    databases: ["MongoDB", "PostgreSQL", "Firebase Firestore"],
+    cloud: ["AWS", "Azure", "Vercel", "Netlify"],
+    tools: ["Git", "Docker", "Kubernetes", "Jira", "Postman"]
+  },
+  currentFocus: "Building intelligent applications that solve real-world problems"
+};
+
+console.log("Let's create something amazing together!");
+```
+
+## Featured Projects
+
+### 🌦️ Weather Forecasting App
+- Cross-platform app with Flutter and Dart
+- Multi-layered weather visualization
+- Serving 1,000+ active users
+
+### 🤖 AI Content Generator
+- Full-stack application with React, Next.js, and PostgreSQL
+- Gemini API integration for personalized content creation
+- Secure payment processing with Razorpay
+
+### ✈️ AI Travel Planner
+- Interactive travel planning with React.js and Tailwind CSS
+- Google Maps & Places API integration
+- Personalized itinerary creation based on user preferences
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malavikam20&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=malavikam20&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+## Achievements
+- 🥈 2nd Prize in CodeChef Code Race among 347 participants
+- 🏆 1st Position at College Level in CodeChef National Competition 
+- 🥇 1st Prize in Hackerrank Code-A-Thon among 128 participants
+
+## Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/malavikam20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:malavika.mv20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://malavikam20.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/malavikam20" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
-  </a>
-  <a href="https://malavikam20.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=flat-square&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="mailto:malavika.mv20@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=malavikam20&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
----
-
-### 👩‍💻 About Me
-
-- 🎓 CS Undergrad @ VIT | 2025
-- 🛠️ I build full-stack web & mobile apps with **React, Next.js, Flutter, Node.js, PostgreSQL**
-- ⚡ Currently building smart AI tools that write content better than I do (and that's saying something 😄)
-- 💡 Believer in clean code, creative UI, and coffee-powered productivity
-- 🏆 Hackathon champ | 3x coding competition winner
-
----
-
-### 🌐 [**AI Content Generator**](https://newaicontenthere27.netlify.app)  
-✨ A tool that generates personalized content for YouTube, blogs, and novels using the **Gemini API**.  
-💡 **Tech Stack:** React, Next.js, PostgreSQL, Tailwind, Razorpay  
-🎯 **Impact:**  
-- 50,000+ users 🚀  
-- 99.9% uptime 🕰️  
-- 40% boost in content generation efficiency 📈
-
----
-
-### 🗺️ [**AI Travel Planner**](https://takemethere20.netlify.app)  
-🌍 Plan the perfect trip based on budget, duration, and personal preferences.  
-💡 **Tech Stack:** React, Tailwind, Google Maps API, Google Places API  
-🎯 **Impact:**  
-- 30% increase in user engagement 📊  
-- Real-time data & dynamic itinerary management 🗓️
-
-### 📱 **[Weather Forecasting App (Internship)]**  
-🌦️ A cross-platform mobile app providing live weather maps and real-time weather data for enhanced user safety.  
-💡 **Tech Stack:** Flutter, Dart, MongoDB 
-🎯 **Impact:**  
-- 100+ users 🌍  
-- 40% increase in safety with live weather data 🛡️  
-- Real-time weather updates for better planning and safety ⏱️
-
----
-
-### 📱 **[Task Management System (Internship)]**  
-🗂️ A productivity app for managing tasks with real-time updates, authentication, and secure data handling.  
-💡 **Tech Stack:** React + Redux, Tailwind CSS, Node.js, PostgreSQL, OAuth  
-🎯 **Impact:**  
-- 100+ users 💼  
-- Improved task management workflow 🗂️  
-- Enhanced security with OAuth authentication 🔐  
-- Increased user productivity by streamlining task tracking 📈
-
-
----
-
-## 🌟 Tech Stack
-
-Here’s a glimpse of my **Tech Stack**! I work with various technologies, ranging from **Frontend**, **Backend**, **DevOps**, and **AI** tools. Here's a dynamic list of the technologies I work with:
-
-### 🚀 Frontend
-- **HTML**
-- **CSS**
-- **JavaScript**
-- **React**
-- **AngularJS**
-- **Bootstrap**
-- **Sass**
-- **Tailwind CSS**
-- **Material UI**
-- **Next.js**
-- **Vite**
-
-### 💻 Backend
-- **Node.js**
-- **Express.js**
-- **NestJS**
-- **MongoDB**
-- **PostgreSQL**
-- **MySQL**
-- **Redis**
-- **Firebase**
-- **Docker**
-- **Git**
-- **Postman**
-
-### ☁️ Cloud & Infrastructure
-- **AWS**
-- **Google Cloud**
-
-### ⚙️ Tools & Others
-- **Bash**
-- **VS Code**
-- **Babel**
-- **Notion**
-
-### 🔧 Programming Languages
-- **C**
-- **C++**
-- **Java**
-- **Python**
-- **TypeScript**
-
-### 🤖 ML & Data Science
-- **Jupyter**
-- **Keras**
-- **TensorFlow**
-- **Scikit-learn**
-- **Matplotlib**
-- **Streamlit**
-
-### 🌍 CMS & 3D
-- **Sanity**
-- **Three.js**
-
-### 📱 Mobile Development
-- **Flutter**
-
-### 🎮 Miscellaneous
-- **jQuery**
-
----
-
-### ✨ Fun Facts
-
-- 🤓 My code editor knows more about me than my diary
-- 📊 I love turning coffee into scalable software
-- 🧠 Still can't decide if I love frontend animations more than backend APIs
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=malavikam20&theme=tokyonight" width="420"/>
-</p>
-
----
-
-### 🌍 Let's Connect!
-
-- 🧳 [Personal Website](https://malavikam20.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/malavikam20)
-- 💬 Always open to working, collaboration, mentorship, or just geeky banter!
-
----
-
-_“The best way to predict the future is to invent it.” – Alan Kay_
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <p align="center">
+    <i>❝The only way to do great work is to love what you do.❞</i><br>
+    <b>― Steve Jobs</b>
+  </p>
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
