@@ -52,6 +52,16 @@ console.log("Let's commit to helping the world become a better place!");
 - Multi-layered weather visualization
 - Serving 100+ active users
 
+## Real-time Coding Data
+
+[![CodeTime Badge](https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24975%26project%3D%26in=0)](https://codetime.dev)
+![Malavika's Stats](https://github-readme-stats.vercel.app/api?username=malavikam20&theme=react&show_icons=true&hide_border=true&count_private=true)
+![Streak Preview](https://github-readme-streak-stats.herokuapp.com/?user=malavikam20&theme=react&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=malavikam20&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![My Profile Card](https://fancy-readme-stats.vercel.app/api?username=malavikam20&theme=snow&footer=malavika.mv20@gmail.com&show_icons=true&title=Malavika%20M&description=Full%20Stack%20/%20Mobile%20App%20Developer&include_all_commits=true&show_icons=true)](https://github.com/maximjsx/fancy-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=malavikam20&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+------
+
 ## GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=malavikam20&theme=radical&hide_border=true)
